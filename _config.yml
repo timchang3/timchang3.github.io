@@ -1,3 +1,5 @@
 name: Tim Chang
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+baseurl: ""
+url: "http://timchang3.github.io"
